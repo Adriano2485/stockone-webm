@@ -130592,7 +130592,7 @@ return A.n($async$$0,r)},
 $S:4}
 A.b6E.prototype={
 $1(a){var s="Massa P\xe3o Franc\xeas",r="Massa P\xe3o Para Rabanada",q="Massa P\xe3o Franc\xeas Fibras",p="Massa P\xe3o Cervejinha",o="Massa Mini Baguete 40g",n="Massa Mini Baguete 90g",m="Massa Baguete 330g",l="Massa P\xe3o De Queijo Coq",k="Massa P\xe3o Biscoito Queijo",j="Massa P\xe3o De Queijo Trad.",i="Massa Biscoito Polvilho",h="Massa P\xe3o Doce Comprido",g="Massa Rosca Doce",f="Massa P\xe3o Doce Caracol",e="Massa P\xe3o Doce Ferradura",d="Massa Mini P\xe3o Marta Rocha",c="Massa P\xe3o Fofinho",b=t.N
-return new A.Ax(this.b,this.a.a.c,A.w([s,2,r,2,q,6,p,2,o,6,n,6,m,6,l,6,k,6,j,6,i,6,h,2,g,6,f,6,e,6,"Massa Bambino",6,d,6,"Massa P\xe3o Tatu",6,c,6],b,t.i),A.w([s,"33639",p,"33639",q,"164966",r,"62901",o,"68170",n,"81235",m,"132471",l,"65139",k,"146428",j,"62948",i,"97922",h,"81242",g,"49445",f,"81238",e,"81240","Massa Bambino","112727",d,"112731","Massa P\xe3o Tatu","42842",c,"106793"],b,b),null)},
+return new A.Ax(this.b,this.a.a.c,A.w([s,2,r,2,q,6,p,2,o,6,n,6,m,6,l,6,k,6,j,6,i,6,h,2,g,6,f,6,e,6,"Massa Bambino",6,d,6,"Massa P\xe3o Tatu",6,c,6],b,t.i),A.w([s,"33639",p,"33639",q,"164966",r,"131281",o,"68170",n,"81235",m,"132471",l,"65139",k,"146428",j,"62948",i,"97922",h,"81242",g,"49445",f,"81238",e,"81240","Massa Bambino","112727",d,"112731","Massa P\xe3o Tatu","42842",c,"106793"],b,b),null)},
 $S:819}
 A.b6F.prototype={
 $0(){},
