@@ -131860,7 +131860,7 @@ A.b9n.prototype={
 $1(a){this.a.QT(this.b,a)},
 $S:7}
 A.LQ.prototype={
-a7(){var s,r,q=new A.bx(Date.now(),0,!1),p=t.s,o=A.b(["rotina","inaugura\xe7\xe3o","cobrir falta de funcion\xe1rios","outros"],p),n=A.b([],p),m=A.b(["P\xe3o Franc\xeas","P\xe3o Franc\xeas Fibras","P\xe3o Franc\xeas Panhoca","P\xe3o Franc\xeas com Queijo","P\xe3o Baguete Francesa Queijo","P\xe3o Baguete Francesa","P\xe3o Baguete Francesa Gergelim","Baguete Francesa Queijo","Baguete Francesa","P\xe3o Queijo Tradicional","P\xe3o Queijo Coquetel","Biscoito Queijo","Biscoito Polvilho","P\xe3o Samaritano","P\xe3o Pizza","P\xe3o Tatu","P\xe3o Tatu Com A\xe7\xfacar","Mini P\xe3o Sonho","Mini P\xe3o Sonho Chocolate","P\xe3o Bambino","Mini Marta Rocha","P\xe3o Doce Ferradura","P\xe3o Doce Caracol","Rosca Caseira","Rosca Caseira C\xf4co","Sandu\xedche Bahamas 120","Sandu\xedche Fofinho","Caseirinho","P\xe3o Doce Comprido","P\xe3o de Alho da Casa","P\xe3o de Alho da Casa Picante","Torrada de Alho","Torrada Fibras","Torrada Fibras de Alho","Torrada Comum","Torrada de Alho Picante"],p)
+a7(){var s,r,q=new A.bx(Date.now(),0,!1),p=t.s,o=A.b(["rotina","inaugura\xe7\xe3o","cobrir falta de funcion\xe1rios","outros"],p),n=A.b([],p),m=A.b(["P\xe3o Franc\xeas","P\xe3o Para Rabanada","Rabanada Assada","P\xe3o Franc\xeas Fibras","P\xe3o Franc\xeas Panhoca","P\xe3o Franc\xeas com Queijo","P\xe3o Baguete Francesa Queijo","P\xe3o Baguete Francesa","P\xe3o Baguete Francesa Gergelim","Baguete Francesa Queijo","Baguete Francesa","P\xe3o Queijo Tradicional","P\xe3o Queijo Coquetel","Biscoito Queijo","Biscoito Polvilho","P\xe3o Samaritano","P\xe3o Pizza","P\xe3o Tatu","P\xe3o Tatu Com A\xe7\xfacar","Mini P\xe3o Sonho","Mini P\xe3o Sonho Chocolate","P\xe3o Bambino","Mini Marta Rocha","P\xe3o Doce Ferradura","P\xe3o Doce Caracol","Rosca Caseira","Rosca Caseira C\xf4co","Sandu\xedche Bahamas 120","Sandu\xedche Fofinho","Caseirinho","P\xe3o Doce Comprido","P\xe3o de Alho da Casa","P\xe3o de Alho da Casa Picante","Torrada de Alho","Torrada Fibras","Torrada Fibras de Alho","Torrada Comum","Torrada de Alho Picante"],p)
 p=A.b(["ruptura em estoque","n\xe3o foi retirado","aguardando fermenta\xe7\xe3o","aguardando forneamento","aguardando acabamento","aguardando embalar","outros"],p)
 s=$.aC
 r=(s==null?$.aC=$.cb():s).c1("[DEFAULT]")
@@ -131884,15 +131884,15 @@ l.z=new A.aO(B.U,s)
 l.Q=new A.aO(B.U,s)
 s=t.N
 r=A.r(s,t.y)
-for(q=l.k1,p=0;p<36;++p)r.l(0,q[p],!1)
+for(q=l.k1,p=0;p<38;++p)r.l(0,q[p],!1)
 l.k3=r
 r=A.r(s,s)
-for(o=l.k2,p=0;p<36;++p)r.l(0,q[p],o[0])
+for(o=l.k2,p=0;p<38;++p)r.l(0,q[p],o[0])
 l.k4=r
 s=A.r(s,s)
-for(p=0;p<36;++p)s.l(0,q[p],"")
+for(p=0;p<38;++p)s.l(0,q[p],"")
 l.ok=s
-for(s=l.p1,p=0;p<36;++p){n=q[p]
+for(s=l.p1,p=0;p<38;++p){n=q[p]
 s.l(0,n,new A.aO(B.U,$.a7()))}m=new A.bx(Date.now(),0,!1)
 s=B.n.cS(B.p.j(A.cW(m)),2,"0")+"/"+B.n.cS(B.p.j(A.bQ(m)),2,"0")+"/"+A.bI(m)
 l.ch=s
@@ -131972,7 +131972,7 @@ if(n.c!=null&&!n.ry)n.A(new A.b9B(n,l))
 c=J.x(k,"rupturas")
 if(c==null){d=t.z
 c=A.r(d,d)}j=c
-for(d=n.k1,b=t.z,a=n.k2,a0=0;a0<36;++a0){i=d[a0]
+for(d=n.k1,b=t.z,a=n.k2,a0=0;a0<38;++a0){i=d[a0]
 a1=J.x(j,i)
 h=a1==null?A.r(b,b):a1
 a2=n.k3
@@ -132311,7 +132311,7 @@ case 6:case 1:return A.m(q,r)
 case 2:return A.l(o.at(-1),r)}})
 return A.n($async$kc,r)},
 uf(){var s,r,q,p,o,n,m,l,k=this,j=t.N,i=A.r(j,t.z)
-for(s=k.k1,r=t.K,q=k.k2,p=0;p<36;++p){o=s[p]
+for(s=k.k1,r=t.K,q=k.k2,p=0;p<38;++p){o=s[p]
 n=k.k3
 n===$&&A.a()
 n=n.h(0,o)
@@ -132363,7 +132363,7 @@ s=r.rx
 if(s!=null)s.aG(0)
 r.rx=A.cZ(B.em,new A.b9I(r))},
 zX(){var s,r,q,p,o,n,m=this
-for(s=m.k1,r=m.p1,q=0;q<36;++q){p=s[q]
+for(s=m.k1,r=m.p1,q=0;q<38;++q){p=s[q]
 o=m.k4
 o===$&&A.a()
 if(o.h(0,p)==="outros"){o=m.k3
@@ -132498,7 +132498,7 @@ case 6:case 1:return A.m(q,r)
 case 2:return A.l(o.at(-1),r)}})
 return A.n($async$u3,r)},
 Nv(){var s,r,q,p,o,n,m,l=this,k=null,j=A.b([],t.Q)
-for(s=l.k1,r=!1,q=0;q<36;++q){p=s[q]
+for(s=l.k1,r=!1,q=0;q<38;++q){p=s[q]
 o=l.k3
 o===$&&A.a()
 if(o.h(0,p)===!0){o=l.k4
@@ -132563,7 +132563,7 @@ break
 case 1:return A.m(q,r)}})
 return A.n($async$P_,r)},
 asE(){var s,r,q,p,o,n,m,l=this,k=new A.cq("")
-for(s=l.k1,r=!1,q=0;q<36;++q){p=s[q]
+for(s=l.k1,r=!1,q=0;q<38;++q){p=s[q]
 o=l.k3
 o===$&&A.a()
 if(o.h(0,p)===!0){o=l.k4
@@ -132821,7 +132821,7 @@ h.sbi(0,n==null?"":n)
 m=o.h(p,"rupturas")
 if(m==null){h=t.z
 m=A.r(h,h)}s=m
-for(h=i.k1,p=t.z,o=i.k2,l=0;l<36;++l){r=h[l]
+for(h=i.k1,p=t.z,o=i.k2,l=0;l<38;++l){r=h[l]
 k=J.x(s,r)
 q=k==null?A.r(p,p):k
 n=i.k3
