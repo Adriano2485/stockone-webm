@@ -130962,7 +130962,7 @@ A.b5b.prototype={
 $0(){this.a.e.l(0,this.b,this.c===!0)},
 $S:0}
 A.LP.prototype={
-a7(){var s,r,q=t.s,p=A.b(["P\xe3o Franc\xeas","P\xe3o Franc\xeas Fibras","P\xe3o Franc\xeas Panhoca","P\xe3o Franc\xeas com Queijo","P\xe3o Baguete Francesa Queijo","P\xe3o Baguete Francesa","P\xe3o Baguete Francesa Gergelim","Baguete Francesa Queijo","Baguete Francesa","P\xe3o Queijo Tradicional","P\xe3o Queijo Coquetel","Biscoito Queijo","Biscoito Polvilho","P\xe3o Samaritano","P\xe3o Pizza","P\xe3o Tatu","P\xe3o Tatu Com A\xe7\xfacar","Mini P\xe3o Sonho","Mini P\xe3o Sonho Chocolate","P\xe3o Bambino","Mini Marta Rocha","P\xe3o Doce Ferradura","P\xe3o Doce Caracol","Rosca Caseira","Rosca Caseira C\xf4co","Sandu\xedche Bahamas 120","Sandu\xedche Fofinho","Caseirinho","P\xe3o Doce Comprido","P\xe3o de Alho da Casa","P\xe3o de Alho da Casa Picante","Torrada de Alho","Torrada Fibras","Torrada Fibras de Alho","Torrada Comum","Torrada de Alho Picante"],q)
+a7(){var s,r,q=t.s,p=A.b(["P\xe3o Franc\xeas","P\xe3o Para Rabanada","Rabanada Assada","P\xe3o Franc\xeas Fibras","P\xe3o Franc\xeas Panhoca","P\xe3o Franc\xeas com Queijo","P\xe3o Baguete Francesa Queijo","P\xe3o Baguete Francesa","P\xe3o Baguete Francesa Gergelim","Baguete Francesa Queijo","Baguete Francesa","P\xe3o Queijo Tradicional","P\xe3o Queijo Coquetel","Biscoito Queijo","Biscoito Polvilho","P\xe3o Samaritano","P\xe3o Pizza","P\xe3o Tatu","P\xe3o Tatu Com A\xe7\xfacar","Mini P\xe3o Sonho","Mini P\xe3o Sonho Chocolate","P\xe3o Bambino","Mini Marta Rocha","P\xe3o Doce Ferradura","P\xe3o Doce Caracol","Rosca Caseira","Rosca Caseira C\xf4co","Sandu\xedche Bahamas 120","Sandu\xedche Fofinho","Caseirinho","P\xe3o Doce Comprido","P\xe3o de Alho da Casa","P\xe3o de Alho da Casa Picante","Torrada de Alho","Torrada Fibras","Torrada Fibras de Alho","Torrada Comum","Torrada de Alho Picante"],q)
 q=A.b(["ruptura em estoque","n\xe3o foi retirado","aguardando fermenta\xe7\xe3o","aguardando forneamento","aguardando acabamento","aguardando embalar","outros"],q)
 s=$.aC
 r=(s==null?$.aC=$.cb():s).c1("[DEFAULT]")
@@ -130979,15 +130979,15 @@ l.f=new A.aO(B.U,s)
 l.r=new A.aO(B.U,s)
 s=t.N
 r=A.r(s,t.y)
-for(q=l.as,p=0;p<36;++p)r.l(0,q[p],!1)
+for(q=l.as,p=0;p<38;++p)r.l(0,q[p],!1)
 l.ax=r
 r=A.r(s,s)
-for(o=l.at,p=0;p<36;++p)r.l(0,q[p],o[0])
+for(o=l.at,p=0;p<38;++p)r.l(0,q[p],o[0])
 l.ay=r
 s=A.r(s,s)
-for(p=0;p<36;++p)s.l(0,q[p],"")
+for(p=0;p<38;++p)s.l(0,q[p],"")
 l.ch=s
-for(s=l.CW,p=0;p<36;++p){n=q[p]
+for(s=l.CW,p=0;p<38;++p){n=q[p]
 s.l(0,n,new A.aO(B.U,$.a7()))}m=new A.bx(Date.now(),0,!1)
 s=B.n.cS(B.p.j(A.cW(m)),2,"0")+"/"+B.n.cS(B.p.j(A.bQ(m)),2,"0")+"/"+A.bI(m)
 l.z=s
@@ -131061,7 +131061,7 @@ if(n.c!=null&&!n.fx)n.A(new A.b93(n,l))
 c=J.x(k,"rupturas")
 if(c==null){d=t.z
 c=A.r(d,d)}j=c
-for(d=n.as,b=t.z,a=n.at,a0=0;a0<36;++a0){i=d[a0]
+for(d=n.as,b=t.z,a=n.at,a0=0;a0<38;++a0){i=d[a0]
 a1=J.x(j,i)
 h=a1==null?A.r(b,b):a1
 a2=n.ax
@@ -131355,7 +131355,7 @@ case 6:case 1:return A.m(q,r)
 case 2:return A.l(o.at(-1),r)}})
 return A.n($async$kc,r)},
 uf(){var s,r,q,p,o,n,m,l,k=this,j=t.N,i=A.r(j,t.z)
-for(s=k.as,r=t.K,q=k.at,p=0;p<36;++p){o=s[p]
+for(s=k.as,r=t.K,q=k.at,p=0;p<38;++p){o=s[p]
 n=k.ax
 n===$&&A.a()
 n=n.h(0,o)
@@ -131407,7 +131407,7 @@ s=r.fr
 if(s!=null)s.aG(0)
 r.fr=A.cZ(B.em,new A.b9a(r))},
 zX(){var s,r,q,p,o,n,m=this
-for(s=m.as,r=m.CW,q=0;q<36;++q){p=s[q]
+for(s=m.as,r=m.CW,q=0;q<38;++q){p=s[q]
 o=m.ay
 o===$&&A.a()
 if(o.h(0,p)==="outros"){o=m.ax
@@ -131442,7 +131442,7 @@ break
 case 1:return A.m(q,r)}})
 return A.n($async$OZ,r)},
 asF(){var s,r,q,p,o,n,m,l=this,k=new A.cq("")
-for(s=l.as,r=!1,q=0;q<36;++q){p=s[q]
+for(s=l.as,r=!1,q=0;q<38;++q){p=s[q]
 o=l.ax
 o===$&&A.a()
 if(o.h(0,p)===!0){o=l.ay
@@ -131546,7 +131546,7 @@ case 6:case 1:return A.m(q,r)
 case 2:return A.l(o.at(-1),r)}})
 return A.n($async$u4,r)},
 Nv(){var s,r,q,p,o,n,m,l=this,k=null,j=A.b([],t.Q)
-for(s=l.as,r=!1,q=0;q<36;++q){p=s[q]
+for(s=l.as,r=!1,q=0;q<38;++q){p=s[q]
 o=l.ax
 o===$&&A.a()
 if(o.h(0,p)===!0){o=l.ay
@@ -131677,7 +131677,7 @@ h.sbi(0,i.z)
 m=o.h(p,"rupturas")
 if(m==null){h=t.z
 m=A.r(h,h)}s=m
-for(h=i.as,p=t.z,o=i.at,l=0;l<36;++l){r=h[l]
+for(h=i.as,p=t.z,o=i.at,l=0;l<38;++l){r=h[l]
 k=J.x(s,r)
 q=k==null?A.r(p,p):k
 n=i.ax
